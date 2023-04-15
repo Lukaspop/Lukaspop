@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Lukáš Pop</h1>
 <h3 align="center">A novice frontend developer from Czechia</h3>
 
-- 🌱 I’m currently learning **C#, JavaScript**
+- 🌱 I’m currently learning **C#, JavaScript, React**
 
 - 📫 How to reach me **Lukas.pop.021@pslib.cz**
 
