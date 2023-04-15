@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **Lukas.pop.021@pslib.cz**
 
+- ⚡ Fun fact **Proud Minecraft gamer**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/lukypop_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lukypop_" height="30" width="40" /></a>
