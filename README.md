@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lukáš Pop</h1>
-<h3 align="center">A passionate frontend developer from Czechia</h3>
+<h1 align="center">Hi👋, I'm Lukáš Pop</h1>
+<h3 align="center">A novice frontend developer from Czechia</h3>
 
 - 🌱 I’m currently learning **C#, JavaScript**
 
