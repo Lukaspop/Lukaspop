@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Lukas.pop.021@pslib.cz**
 
-- ⚡ Fun fact **Proud Minecraft gamer**
+- ⚡ Fun fact **I'm a proud Minecraft gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
