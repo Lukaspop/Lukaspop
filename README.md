@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Lukáš Pop</h1>
 <h3 align="center">A novice frontend developer from Czechia</h3>
 
-- 🌱 I’m currently crying at **C#, JavaScript**
+- 🌱 I’m currently crying at **ASP.NET CORE, MAUI and REACT :)**
 
 - 📫 How to reach me **Lukas.pop.021@pslib.cz**
 
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://instagram.com/lukypop_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lukypop_" height="30" width="40" /></a> Lukypop_
   
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="𝕃𝕦𝕜𝕪𝕡𝕠𝕡#2339" height="30" width="40" /> 𝕃𝕦𝕜𝕪𝕡𝕠𝕡#2339
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lukypop" height="30" width="40" /> lukypop
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
