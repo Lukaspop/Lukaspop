@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Lukáš Pop</h1>
 <h3 align="center">A novice frontend developer from Czechia</h3>
 
-- 🌱 I’m currently crying at **ASP.NET CORE, MAUI and REACT :)**
+- 🌱 I’m currently crying at **ASP.NET CORE and REACT :)**
 
 - 📫 How to reach me **Lukas.pop.021@pslib.cz**
 
