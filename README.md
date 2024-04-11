@@ -1,11 +1,9 @@
-<h1 align="center">Hi👋, I'm Lukáš Pop</h1>
+<h1 align="center">Hi👋, I'm Lukas Pop</h1>
 <h3 align="center">A novice frontend developer from Czechia</h3>
 
-- 🌱 I’m currently crying at **ASP.NET CORE and REACT :)**
+- 🌱 I’m currently learning **ASP.NET CORE and REACT :)**
 
 - 📫 How to reach me **Lukas.pop.021@pslib.cz**
-
-- ⚡ Fun fact **I'm a proud Minecraft enjoyer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
