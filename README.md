@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">A passionate frontend developer from Czechia</h3>
+<h3 align="center">Student & frontend developer from Czechia</h3>
 
 - 🔭 I’m currently working on [Pixel Dread Website](https://github.com/Lukaspop/Pixel-Dread-website)
 
