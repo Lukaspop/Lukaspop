@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **luk4sp0p@gmail.com**
 
-- ⚡ Fun fact **I can bench 115 kg (soon 120 kg)**
+- ⚡ Fun fact **I can bench 120 kg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
