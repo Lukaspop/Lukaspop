@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">Student & frontend developer from Czechia</h3>
 
-- 🔭 I’m currently working on [Pixel Dread Website](https://github.com/Lukaspop/Pixel-Dread-website)
+- 🔭 I’m currently working on [My personal website](https://github.com/Lukaspop/personal-website)
 
-- 🌱 I’m currently learning **with docker**
+- 🌱 I’m currently learning **SEO & Next.js**
 
 - 📫 How to reach me **luk4sp0p@gmail.com**
 
