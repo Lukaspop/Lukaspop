@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">Student & frontend developer from Czechia</h3>
 
-- 🔭 I’m currently working on [My personal website](https://github.com/Lukaspop/personal-website)
-
-- 🌱 I’m currently learning **SEO & Next.js**
+- 🔭 I’m currently working in [UX Fans](https://uxf.cz)
 
 - 📫 How to reach me **luk4sp0p@gmail.com**
 
-- ⚡ Fun fact **I can bench 120 kg**
+- ⚡ Fun fact **I can bench 130 kg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
