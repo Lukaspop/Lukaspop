@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">Student & frontend developer from Czechia</h3>
+<h3 align="center">Full-stack developer & Fintess trainer</h3>
 
 - 🔭 I’m currently working in [UX Fans](https://uxf.cz)
 
